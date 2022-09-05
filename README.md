@@ -1,1 +1,1 @@
-My first readme file for current for this project
+This is a readme file for shell redirections tasks
